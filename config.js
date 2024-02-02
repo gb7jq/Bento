@@ -59,9 +59,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Torrents',
+			icon: 'hard-drive-download',
+			link: 'https://1337x.to/',
 		},
 		{
 			id: '3',
@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Twinkl',
+			icon: 'sparkle',
+			link: 'https://www.twinkl.co.th/',
 		},
 		{
 			id: '5',
